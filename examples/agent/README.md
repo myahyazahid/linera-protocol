@@ -2,6 +2,7 @@
 
 This example application runs a Large Language Model (LLM) Agent which uses an LLM
 to forge queries by introspecting the Linera Node Service GraphQL API.
+yes
 
 ## How it works
 
